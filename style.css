@@ -61,11 +61,11 @@ body {
 }
 
 .header-signup {
-    background-color: yellow;
-    display: flex;
-    width: 60px;
-    padding: 10px;
-    justify-content: center;
+    background-color: royalblue;
+    color:#F9FAF8;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid royalblue;
 }
 
 a {
