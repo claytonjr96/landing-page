@@ -8,6 +8,12 @@ body {
     background-color: #1F2937;
 }
 
+.hero {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
 .header-top-links,
 .header-subtext {
     font-size: 18px;
@@ -19,19 +25,23 @@ body {
     color: #F9FAF8;
     display: flex;
     align-items: center;
-    padding-left: 60px;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .header-top-links {
     list-style-type: none;
     display: flex;
     gap: 10px;
-    padding-right: 60px;
 }
 
 .header-main {
     display: flex;
+    justify-content: space-evenly;
+}
+
+.header-and-subtext {  
+    flex-shrink: 0;
+    margin: 24px;
 }
 
 a {
