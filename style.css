@@ -72,7 +72,12 @@ body {
     font-size: 36px;
     color: #1F2937;
     font-weight: bolder;
+}
 
+.information {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 a {
