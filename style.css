@@ -8,6 +8,12 @@ body {
     background-color: #1F2937;
 }
 
+.header-top-links,
+.header-subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .header-top {
     font-size: 24px;
     color: #F9FAF8;
@@ -18,12 +24,14 @@ body {
 }
 
 .header-top-links {
-    font-size: 18px;
-    color: #E5E7EB;
     list-style-type: none;
     display: flex;
     gap: 10px;
-    padding-right: 20px;
+    padding-right: 60px;
+}
+
+.header-main {
+    display: flex;
 }
 
 a {
