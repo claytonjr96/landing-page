@@ -121,3 +121,32 @@ a {
     margin: 12px;
     text-align: right;
 }
+
+.signup-main {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 60px;
+    padding: 40px 20px;
+    border-radius: 8px;
+}
+
+.signup-text {
+    font-size: 24px;
+    color: #F9FAF8;
+    
+}
+
+.signup-subtext {
+    color: #E5E7EB;
+    font-size: 16px;
+}
+
+button.signup-button {
+    background-color: #3882F6;
+    color:#F9FAF8;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #F9FAF8;
+    margin-left: 20px;
+}
