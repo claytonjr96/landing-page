@@ -80,6 +80,12 @@ body {
     flex-direction: column;
 }
 
+.information-list {
+    list-style-type: none;
+    display: flex;
+    padding: 20px;
+}
+
 a {
     text-decoration: none;
     color: inherit;
