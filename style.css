@@ -72,6 +72,7 @@ body {
     font-size: 36px;
     color: #1F2937;
     font-weight: bolder;
+    margin: 8px;
 }
 
 .information {
@@ -101,4 +102,16 @@ img.box {
 a {
     text-decoration: none;
     color: inherit;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 75px 125px;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    
 }
