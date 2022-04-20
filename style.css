@@ -39,6 +39,7 @@ body {
 .header-main {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 40px;
 }
 
@@ -46,6 +47,16 @@ body {
     flex-shrink: 0;
     width: 400px;
     margin: 20px;
+}
+
+.header-image {
+    display: flex;
+    background-color: yellow;
+    height: 60px;
+    padding: 60px;
+    align-items: center;
+    flex: 0 0 auto;
+    
 }
 
 a {
