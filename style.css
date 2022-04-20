@@ -89,7 +89,7 @@ body {
 
 .information-content {
     text-align: center;
-    
+    margin: 12px;
 }
 
 
@@ -113,5 +113,11 @@ a {
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
-    
+}
+
+.quote-signature {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 12px;
+    text-align: right;
 }
