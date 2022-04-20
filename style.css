@@ -41,13 +41,13 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 40px;
+    padding: 60px;
 }
 
 .header-and-subtext {  
     flex-shrink: 0;
     width: 400px;
-    margin: 20px;
+    
 }
 
 .header-image {
