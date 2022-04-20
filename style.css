@@ -12,6 +12,7 @@ body {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin-bottom: -10px;
 }
 
 .header-top-links,
@@ -57,7 +58,14 @@ body {
     padding: 60px;
     align-items: center;
     flex: 0 0 auto;
-    
+}
+
+.header-signup {
+    background-color: yellow;
+    display: flex;
+    width: 60px;
+    padding: 10px;
+    justify-content: center;
 }
 
 a {
