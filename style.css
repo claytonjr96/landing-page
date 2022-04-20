@@ -33,7 +33,7 @@ body {
 .header-top-links {
     list-style-type: none;
     display: flex;
-    gap: 10px;
+    gap: 16px;
     padding-right: 60px;
 }
 
