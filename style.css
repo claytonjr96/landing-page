@@ -68,7 +68,10 @@ body {
     border: 1px solid #3882F6;
 }
 
-.information {
+.information-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bolder;
 
 }
 
