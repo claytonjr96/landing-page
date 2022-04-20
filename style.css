@@ -50,7 +50,7 @@ body {
     
 }
 
-.header-image {
+/* .header-image {
     display: flex;
     background-color: grey;
     color: #F9FAF8;
@@ -58,7 +58,7 @@ body {
     padding: 60px;
     align-items: center;
     flex: 0 0 auto;
-}
+} */
 
 .header-signup {
     background-color: #3882F6;
@@ -97,6 +97,10 @@ img.box {
     max-width: 80px;
     border: 2px solid #3882F6;
     border-radius: 8px;
+}
+
+img.eric {
+    max-width: 300px;
 }
 
 a {
